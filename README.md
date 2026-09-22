@@ -1,4 +1,8 @@
-# C programming coursework
+# C programming
+
+> **Coursework** · Foundational exercises
+>
+> [Selected projects](https://github.com/BadrEss01/BadrEss#selected-projects) · [Coursework](https://github.com/BadrEss01/BadrEss/blob/main/COURSEWORK.md)
 
 Foundational C exercises covering expressions, control flow, functions and data structures. Original assignment folders and source comments are preserved.
 
